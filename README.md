@@ -1209,3 +1209,6 @@ Your contributions are always welcome! Please take a look at the [contribution g
 ---
 
 If you have any question about this opinionated list, do not hesitate to contact [@VintaChen](https://twitter.com/VintaChen) on Twitter.
+
+## Notah.ai
+- [Notah.ai](https://notah.ai/) - AI meeting assistant for automatic transcription and summarization
